@@ -31,10 +31,10 @@ The project repository has the following structure:
 Current goals are:
 
 - [x] Implement the basic algorithms which form the backbone of the simulation.
-- [] Implement a basic running simulation of this project.
-- [] Implement a more sophisticated simulation using Poisson Random Processes to simulate variation in weather and climate.
-- [] Develop more sophisticated models which account for root structure, ground topology and multiple differing forms of biomass.
-- [] Implement a more sophisticated simulation which takes into account root structure, ground topology, runoff, and other factors found in nature.
+- [ ] Implement a basic running simulation of this project.
+- [ ] Implement a more sophisticated simulation using Poisson Random Processes to simulate variation in weather and climate.
+- [ ] Develop more sophisticated models which account for root structure, ground topology and multiple differing forms of biomass.
+- [ ] Implement a more sophisticated simulation which takes into account root structure, ground topology, runoff, and other factors found in nature.
 
 ## Usage
 
