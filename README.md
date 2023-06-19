@@ -1,6 +1,6 @@
 # Plant Reaction-Diffusion Simulation
 
-This project aims to implement various Reaction-Diffusion models to simulate the effects of harsh climates on plant communities. It is inspired by Problem A of the Mathematical Competition in Modeling from the year 2023.
+This project aims to implement various Reaction-Diffusion models to simulate the effects of harsh climates on plant communities. It is inspired by Problem A of the Mathematical Competition in Modeling from the year 2023. This project implements various models using the Julia Programming Language, which was chosen for its superior performance in scientific computation relative to Python.
 
 ## Background
 
@@ -25,6 +25,16 @@ The project repository has the following structure:
 - `test/`: Contains various tests written to check for code errors.
 - `LICENSE`: Outlines the GNU Affero General Public License v3.0.
 - `README.md`: This file.
+
+## Goals
+
+Current goals are:
+
+- [x] Implement the basic algorithms which form the backbone of the simulation.
+- [] Implement a basic running simulation of this project.
+- [] Implement a more sophisticated simulation using Poisson Random Processes to simulate variation in weather and climate.
+- [] Develop more sophisticated models which account for root structure, ground topology and multiple differing forms of biomass.
+- [] Implement a more sophisticated simulation which takes into account root structure, ground topology, runoff, and other factors found in nature.
 
 ## Usage
 
