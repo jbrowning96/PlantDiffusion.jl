@@ -19,7 +19,7 @@ The projects requirements were, as outlined by the Mathematical Competition in M
 The project repository has the following structure:
 
 - `bib/`: Contains BibTex bibliography files.
-- `docs/`: Contains documentation implemented in Jupyter Notebooks on the implementations found in source code.
+- `docs/`: Contains in-depth discussion on the implementations found in source code.
 - `imgs/`: Contains various images created with Plots.jl throughout various simulations.
 - `src/`: Contains the source code files for the project.
 - `test/`: Contains various tests written to check for code errors.
